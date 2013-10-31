@@ -1,0 +1,3 @@
+log/*
+!log/.gitkeep
+!log/20000101.log

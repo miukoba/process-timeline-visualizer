@@ -1,6 +1,8 @@
 process timeline visualizer
 =======================================
 
+![image](https://raw.github.com/miukoba/process-timeline-visualizer/master/example-image.png)
+
 ## setting
 
 ### edit process-logger.sh
